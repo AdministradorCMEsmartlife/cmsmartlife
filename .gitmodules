@@ -20,3 +20,8 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:AdministradorCMEsmartlife/odooec.git
+
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 10.0
